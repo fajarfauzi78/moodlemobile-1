@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>Training Center Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Training Center Mobile Official App
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://shoetowngroup.com" email="fajar.fauzi@shoetowngroup.com">
+        Fajar Fauzi Ramadhan
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
